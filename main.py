@@ -1,8 +1,3 @@
-#Author: Ronni Kurtzhals
-#Date: 12/4/18
-#Class: CSIS 152
-#Instructor: Dr. Brekke
-#Assignment: Program 13
 import string
 import math
 
